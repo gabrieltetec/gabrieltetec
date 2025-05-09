@@ -1,5 +1,5 @@
 
- * Título: , Almanaque Geek.
+ * Título: Almanaque Geek.
  * Descrição: Histórias e Contos Da Cultura Que Encanta Gerações Ao Redor Do Mundo 
 Abrangendo Uma Enorme Variedade De Curiosidades, .
  * Tecnologias Utilizadas: HTMl,CSS.
