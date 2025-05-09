@@ -1,7 +1,7 @@
 
  * Título: Almanaque Geek.
  * Descrição: Histórias e Contos Da Cultura Que Encanta Gerações Ao Redor Do Mundo 
-Abrangendo Uma Enorme Variedade De Curiosidades, .
+Abrangendo Uma Enorme Variedade De Curiosidades.
  * Tecnologias Utilizadas: HTMl,CSS.
  * Uso:Para Enriquecer suas conversas sobre Mundo Do Entretenimento: Ao saber de fatos históricos, curiosidades e estatísticas, você se torna um interlocutor mais interessante e pode participar de debates com mais propriedade.
 Para Teorizar e Criar Expectativas: O Almanaque pode te ajudar a analisar Cada detalhe e desvendar coisas que nem voce sabia ,.
